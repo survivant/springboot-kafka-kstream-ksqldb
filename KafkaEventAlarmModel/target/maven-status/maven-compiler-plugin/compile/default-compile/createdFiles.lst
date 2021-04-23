@@ -1,0 +1,4 @@
+com\example\kafkaeventalarm\model\Order.class
+com\example\kafkaeventalarm\model\Order$OrderBuilder.class
+com\example\kafkaeventalarm\model\Return$ReturnBuilder.class
+com\example\kafkaeventalarm\model\Return.class
